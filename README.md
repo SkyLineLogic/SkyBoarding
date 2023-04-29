@@ -1,4 +1,4 @@
-# ChiefOnboarding
+# SkyBoarding
 
 [![Tests](https://github.com/chiefonboarding/ChiefOnboarding/actions/workflows/tests.yml/badge.svg)](https://github.com/chiefonboarding/ChiefOnboarding/actions/workflows/tests.yml)
 [![Coverage Status](https://coveralls.io/repos/github/chiefonboarding/ChiefOnboarding/badge.svg?branch=master)](https://coveralls.io/github/chiefonboarding/ChiefOnboarding?branch=master)
